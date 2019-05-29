@@ -1,0 +1,21 @@
+Nombre: Jose Alejandro Chan Martin
+Github-Username: AlejandroChM
+
+Skills:
+-Modelado en 3D
+-Escenarios 3D
+-Infraestructura 3D
+-Modelado de personajes
+
+Versión de Unreal:
+-4.19
+
+Experiencia:
+-Diseño de escenarios 3D y edificación.
+
+Versión Visual Studio:
+-2015-2017
+
+Carrera:
+-Tecnologias de la Información y Comunicación
+Tipo de cel: Iphone 6- IOS 12.2
