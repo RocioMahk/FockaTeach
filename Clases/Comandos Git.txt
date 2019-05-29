@@ -1,0 +1,10 @@
+git clone "url"                ** Clonar un repositorio
+git add .                      ** Preparar archivos para subir
+git commit -m "comentarios"    ** Comentar archivos para subir
+git push                       ** Subir archivos cargados
+git pull                       ** Actualizar archivos locales
+git rm "NombreDelArchivo"      ** Borrar archivos
+git status                     ** Ver si esta actualizado
+git log                        ** Ver todos los Logs y cambios
+git merge                      ** combinar archivos
+git mv                         ** mover o renombrar archivos
