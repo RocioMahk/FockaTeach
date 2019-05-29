@@ -1,0 +1,10 @@
+nombre: yajaira guadalupe soto pech
+username de git:YajairaSoto
+skills:
+version unreal:
+experiencia:
+version visual studio
+carrera:tecnología de la información y comunicación
+tipode cel(modelo):HUAWEI P smart FIG-LX3
+vercion:8.0.0
+android
