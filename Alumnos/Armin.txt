@@ -1,0 +1,11 @@
+Nombre: Jorge Armin Tec May
+Username de git: ArminTec
+Skills:Dibujar, Redacción y documentación.
+Versión de Unreal: 4.14
+Experiencia: Creación de páginas wed
+             Creación de aplicaciones de escritorio
+             Experiencia en el área de mantenimiento en la empresa Xcaret
+Versión visual studio: NO
+Carrera: Ingeniería en tecnologias de la información y comunicaciones.
+Tipo de cel: Samsung Galaxi Grand Prime
+Android 5.1.1
