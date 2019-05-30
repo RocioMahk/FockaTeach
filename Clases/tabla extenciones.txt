@@ -1,0 +1,19 @@
+	asset type							file extension				    application
+
+3d models, skeletal, mesh rigs,							.fbx					maya
+animacion data									.obj					Zbruzh
+															Photoshop
+									Texturas and imagenes				Bit Font Marker2
+										.bmp .png .hdr				Audacity, audicion																after effecs
+ 										.jpeg .psd				media Enconder
+										.pcx .tga
+								font------------.otf .ttf
+
+audio			VIDEO y multimedia
+.wav			    .wmv
+
+												tabla de extenciones   29/05/2019
+												
+												physx---.apb----.apx---APEX---Physix Lap
+
+												other --- .csv-----excel
