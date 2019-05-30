@@ -1,0 +1,20 @@
+Para cambiar el color de un objeto
+
+
+Escogemos un objeto, damos doble clic sobre el mesh; se abre una
+ventana de edición y en la parte de derecha en la parte de material
+slots se da doble clic al dubujo de la esfera y se puede cambiar el
+colo para aplicarse al objeto, una vez realizado el cambio se procede
+a guardar y aplicar los cambios.
+
+
+Cambio de color al material
+
+Vamos a materials en es started content y seleccionamos cualquier material
+dando doble clic en él para que salga otra ventana; de ahi damos clic sobre
+al area y escribimos vector param en el buscador damos doble clic en el recuadro
+y cambiamos el color. Despues otra vez damos clic en el espacio en blanco y 
+escribimos overlay conectamos el primer nodo del vector al segundo nodo
+del overlay y el nodo de result se conecta al nodo uno de color base y el primer
+nodo se del vector param se conecta al nodo en el que estaba conectado anteriormente
+el color base.
