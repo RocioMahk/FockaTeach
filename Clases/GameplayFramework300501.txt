@@ -1,0 +1,18 @@
+|Game Mode Class|-> Reglas de juego.
+
+-|Pawn class|-> 
+	(Control player)
+		-Pawn class
+		-Character class
+		-Vehicle class
+
+-|HUD class| -> 2D 
+
+-|Player Controller class| -> Interacción Jugador<->Player
+
+-|Player state class| -> Estado del jugador
+
+-|Game state class| -> Servidor
+
+
+|Game Instance Class| -> Guardado de datos de los niveles.
