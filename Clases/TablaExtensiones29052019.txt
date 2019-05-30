@@ -1,0 +1,65 @@
+
+Asset Type!
+-3D models
+-Skeletal mesh rigs
+-animations data
+
+File extension!
+- .fbx
+- .obj
+
+Applications!
+-Maya
+-3ds max
+-Zbrush
+
+--------------------
+Textures and images!
+- .bmp
+- .jpeg
+- .pcx
+- .png
+- .psd
+- .tga
+- .hdr
+
+Application!
+- Photoshop
+
+--------------------
+
+Fonts!
+- .otf
+- .ttf
+
+Applications!
+-BitFontMakerZ
+
+--------------------
+Audio!
+- .wav
+
+Application!
+-Audacity
+-Audition
+--------------------
+Video and multimedia!
+- .wmv
+
+Application!
+-After effects
+-Media encoder
+
+---------------------
+Physx!
+-> .apb
+-> .apx
+
+Application!
+- APEX Physx Lab
+---------------------
+Other!
+- .csv
+
+Application!
+- Excel
