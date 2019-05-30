@@ -1,0 +1,28 @@
+Pawn class
+
+Control player o AI
+
+-Pawn class
+-Character class
+-Vehicle class
+______________________
+HUD class
+
+-2D
+______________________
+Player controller class
+
+-Interraccion
+-Jugador <-> Player
+______________________
+Player state class
+
+-Estado del jugador
+______________________
+Game state class
+
+-Servidor
+______________________
+Game instance class
+
+Guarda datos a travez de niveles
