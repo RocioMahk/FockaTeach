@@ -31,3 +31,4 @@ Repositorio de enseñanza en
 * Tarea04 Dibujar ventana de Unreal y señañlizar
 * Tarea05 Cambiar de color un objeto (utiliando el cambio de color en el material)
 * Tarea06 Colocar 3 luces spotlight a una pared y que estas se combinen
+* Tarea07 Realizar un puente usando actor Geometry, mostrado en la clase del día 31 Mayo (foto del pizarrón)
